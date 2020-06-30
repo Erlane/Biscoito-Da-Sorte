@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.847d16b8.chunk.js",
+    "main.js.map": "/static/js/main.847d16b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e90cd1b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e90cd1b7.js.map",
+    "static/js/2.0478a4ae.chunk.js": "/static/js/2.0478a4ae.chunk.js",
+    "static/js/2.0478a4ae.chunk.js.map": "/static/js/2.0478a4ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4fc8e65ac1c1750c2b587fa0cda6f189.js": "/precache-manifest.4fc8e65ac1c1750c2b587fa0cda6f189.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0478a4ae.chunk.js.LICENSE.txt": "/static/js/2.0478a4ae.chunk.js.LICENSE.txt",
+    "static/media/biscoito.jpg": "/static/media/biscoito.b4fdb467.jpg",
+    "static/media/whats.png": "/static/media/whats.953a8c3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90cd1b7.js",
+    "static/js/2.0478a4ae.chunk.js",
+    "static/js/main.847d16b8.chunk.js"
+  ]
+}
