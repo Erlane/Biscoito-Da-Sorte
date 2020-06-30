@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.847d16b8.chunk.js",
-    "main.js.map": "/static/js/main.847d16b8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e90cd1b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e90cd1b7.js.map",
-    "static/js/2.0478a4ae.chunk.js": "/static/js/2.0478a4ae.chunk.js",
-    "static/js/2.0478a4ae.chunk.js.map": "/static/js/2.0478a4ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4fc8e65ac1c1750c2b587fa0cda6f189.js": "/precache-manifest.4fc8e65ac1c1750c2b587fa0cda6f189.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.0478a4ae.chunk.js.LICENSE.txt": "/static/js/2.0478a4ae.chunk.js.LICENSE.txt",
-    "static/media/biscoito.jpg": "/static/media/biscoito.b4fdb467.jpg",
-    "static/media/whats.png": "/static/media/whats.953a8c3e.png"
+    "main.js": "/Biscoito-Da-Sorte/static/js/main.f9f88f0c.chunk.js",
+    "main.js.map": "/Biscoito-Da-Sorte/static/js/main.f9f88f0c.chunk.js.map",
+    "runtime-main.js": "/Biscoito-Da-Sorte/static/js/runtime-main.a6b64c33.js",
+    "runtime-main.js.map": "/Biscoito-Da-Sorte/static/js/runtime-main.a6b64c33.js.map",
+    "static/js/2.8034749d.chunk.js": "/Biscoito-Da-Sorte/static/js/2.8034749d.chunk.js",
+    "static/js/2.8034749d.chunk.js.map": "/Biscoito-Da-Sorte/static/js/2.8034749d.chunk.js.map",
+    "index.html": "/Biscoito-Da-Sorte/index.html",
+    "precache-manifest.52acc065917092588649fddb0fc15065.js": "/Biscoito-Da-Sorte/precache-manifest.52acc065917092588649fddb0fc15065.js",
+    "service-worker.js": "/Biscoito-Da-Sorte/service-worker.js",
+    "static/js/2.8034749d.chunk.js.LICENSE.txt": "/Biscoito-Da-Sorte/static/js/2.8034749d.chunk.js.LICENSE.txt",
+    "static/media/biscoito.jpg": "/Biscoito-Da-Sorte/static/media/biscoito.b4fdb467.jpg",
+    "static/media/whats.png": "/Biscoito-Da-Sorte/static/media/whats.953a8c3e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e90cd1b7.js",
-    "static/js/2.0478a4ae.chunk.js",
-    "static/js/main.847d16b8.chunk.js"
+    "static/js/runtime-main.a6b64c33.js",
+    "static/js/2.8034749d.chunk.js",
+    "static/js/main.f9f88f0c.chunk.js"
   ]
 }
